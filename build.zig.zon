@@ -1,0 +1,5 @@
+.{
+    .paths = .{"import.zig"},
+    .name = "atleg",
+    .version = "0.1.0",
+}
